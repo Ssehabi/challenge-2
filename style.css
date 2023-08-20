@@ -1,0 +1,47 @@
+body {
+  overflow: hidden;
+}
+.container {
+  position: relative;
+  /* overflow: hidden; */
+}
+.image {
+  position: absolute;
+  left: 700px;
+  top: 50px;
+}
+.content {
+  color: hsl(240, 38%, 20%);
+  position: absolute;
+  left: 130px;
+  top: 100px;
+  font-family: Inter;
+  font-size: 32px;
+  width: 680px;
+}
+.engineer {
+  color: hsl(240, 18%, 77%);
+}
+/* .text { */
+/* color: hsl(240, 38%, 20%); */
+/* } */
+.svg-1 {
+  position: absolute;
+  left: 220px;
+  top: 62px;
+}
+.svg-2 {
+  position: absolute;
+  top: 450px;
+  left: -8px;
+  /* height: 100px; */
+  /* bottom: 0px; */
+}
+.svg-3 {
+  /* position: absolute; */
+  /* left: 00px; */
+  padding-left: 500px;
+}
+.navigation {
+  background-color: aqua;
+}
